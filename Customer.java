@@ -1,9 +1,6 @@
 /*
  * Bushra Hameed
- * CS 4348.501
- * Project 2
- * 
- * Problem: A bank is simulated by using threads and semaphores to model customer and employee behavior.
+ * A bank is simulated by using threads and semaphores to model customer and employee behavior.
  */
   
 import java.util.LinkedList;
